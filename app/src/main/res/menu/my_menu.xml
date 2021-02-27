@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_button"
+        android:icon="@drawable/pngwing_com"
+        android:title="Главная" />
+    <item
+        android:id="@+id/profile_buttom"
+        android:icon="@drawable/pngwing_com__1_"
+        android:title="Профиль" />
+    <item
+        android:id="@+id/setting_button"
+        android:icon="@drawable/pngwing_com__2_"
+        android:title="Настройки" />
+</menu>
